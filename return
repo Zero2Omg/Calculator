@@ -1,0 +1,12 @@
+[1mdiff --git a/todas las pruebas/Hello world.html b/todas las pruebas/Hello world.html[m
+[1mindex 6018eb6..ab5c682 100644[m
+[1m--- a/todas las pruebas/Hello world.html[m	
+[1m+++ b/todas las pruebas/Hello world.html[m	
+[36m@@ -6,5 +6,6 @@[m
+ <img src="C:\Users\TheZero2\Pictures\Roblox" sizes="50xp">[m
+ <h1>Hello world</h1>[m
+ <N><p>Probando actualizacion1</p> </p></N>[m
+[32m+[m[32m<p>Sigo probando cosas nuevas</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m

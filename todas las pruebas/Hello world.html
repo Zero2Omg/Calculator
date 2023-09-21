@@ -8,4 +8,14 @@
 <N><p>Probando actualizacion </p> </p></N>
 <h1>I want put other things  here one i will show youu how i do it </h1>
 </body>
-</html>
+</html>print("Buenas señor, hoy vamos a ver si usted tiene la edad requerida para hacer lo que quiera hacer")while True:
+    try:
+        age = int(input("Escribe tu edad: "))
+        break
+    except ValueError:
+        print("El valor que ha ingresado no es válido. Por favor, ingrese un número entero.")
+
+if age >= 18:
+    print("Perfecto, usted es mayor de edad.")
+else:
+    print("Lamentablemente, no cumple con los requisitos de edad.")
